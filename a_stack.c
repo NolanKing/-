@@ -1,3 +1,5 @@
+/*From <Pointers on C>*/
+
 #include "stack.h"
 #include <assert.h>
 #define  STACK_SIZE  100
